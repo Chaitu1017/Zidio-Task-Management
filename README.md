@@ -12,5 +12,7 @@ This project is a Task Management System built using React.js for the frontend. 
 
 ### **1. Clone the repository**
 ```sh
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
-cd YOUR-REPO
+git clone https://github.com/Chaitu1017/Zidio-Task-Management.git
+cd Zidio-Task-Management
+npm install
+npm run dev
